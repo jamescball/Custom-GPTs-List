@@ -20,3 +20,17 @@ Be a part of a growing community that is shaping the future of AI interactions. 
 Let's embark on this exciting journey together, exploring the vast potential of Custom GPTs!
 
 (yes, AI did write this repo description)
+
+# GPT Agents
+
+## Career Coach
+Contributed by [@jamescball](https://github.com/jamescball) Link: https://chat.openai.com/g/g-kYsA3BiJq-career-coach
+> Unlock your potential with Career Coach, your dedicated partner in navigating the complexities of the job market. With a blend of friendly professionalism, Career Coach offers clear, concise, and tailored advice for job seekers and professionals seeking career advancement. Whether you're crafting a standout resume, preparing for a pivotal interview, or exploring new career paths, our expertise is your advantage.
+
+##Fitness Coach
+Contributed by [@jamescball](https://github.com/jamescball) Link: https://chat.openai.com/g/g-yFf5ICJXU-fitness-coach
+>  Discover Fitness Coach, an AI-powered personal guide dedicated to helping you achieve your fitness and nutrition goals. Get tailored advice, workout plans, and dietary tips for a balanced, healthier lifestyle.
+
+##Article Assistant
+Contributed by [@jamescball](https://github.com/jamescball) Link: https://chat.openai.com/g/g-iunA9kbbI-article-assistant
+>  Article Assistant, a specialized version of ChatGPT, is designed to excel in creating structured, web-ready articles in Markdown format. This advanced AI tool stands out for its ability to seamlessly integrate content into websites and content management systems, thanks to its proficiency in Markdown syntax. Ideal for digital content creators, Article Assistant streamlines the process from article writing to web publication, offering a unique blend of efficiency and formatting finesse. With its focus on structure and web optimization, it is an invaluable asset for anyone looking to enhance their online content with well-organized, SEO-friendly articles.
