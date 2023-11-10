@@ -21,6 +21,8 @@ Let's embark on this exciting journey together, exploring the vast potential of 
 
 (yes, AI did write this repo description)
 
+Contributions welcome. To add an Agent, simply create an issue with the Agent info.
+
 # GPT Agents
 
 ## Career Coach
